@@ -1,5 +1,4 @@
                                                 
-                                                <!-- this script is provided by https://www.htmlbestcodes.com coded by: Kerixa Inc. -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -196,7 +195,7 @@
 
     <div id="form-view">
 
-     <h1 id="title"><a href="http://www.htmlbestcodes.com">Html Best Codes Form</a></h1>
+     <h1 id="title"><a href="http://www.htmlbestcodes.com">DevOps Project</a></h1>
 
     </div>
 
