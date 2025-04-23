@@ -265,7 +265,7 @@
 
         <div>
 
-        <label>Would you recommend htmlbestcodes to a friend?</label><br /><br />
+        <label>Would you recommend this project to a friend?</label><br /><br />
 
         
 
