@@ -271,7 +271,7 @@
 
         <input id="definitely" type="radio" name="recommendation" value="definitely"/>
 
-        <label for="definitely">Definitely!!</label><br />
+        <label for="definitely">Definitely!</label><br />
 
           
 
