@@ -271,19 +271,19 @@
 
         <input id="definitely" type="radio" name="recommendation" value="definitely"/>
 
-        <label for="definitely">Definitely</label><br />
+        <label for="definitely">Definitely!!</label><br />
 
           
 
         <input id="maybe" type="radio" name="recommendation" value="maybe"/>
 
-        <label for="maybe">Maybe</label><br />
+        <label for="maybe">Maybe -_-</label><br />
 
           
 
         <input id="notsure" type="radio" name="recommendation" value="notsure"/>
 
-        <label for="notsure">Not Sure</label><br />
+        <label for="notsure">Not Sure :( </label><br />
 
         </div>
 
