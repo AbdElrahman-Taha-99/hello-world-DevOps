@@ -277,7 +277,7 @@
 
         <input id="maybe" type="radio" name="recommendation" value="maybe"/>
 
-        <label for="maybe">Maybe -_-</label><br />
+        <label for="maybe">Maybe</label><br />
 
           
 
