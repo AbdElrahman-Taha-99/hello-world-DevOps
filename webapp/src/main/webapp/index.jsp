@@ -211,7 +211,7 @@
 
         <label id="name-label" for="name">Name:</label><br /><br />
 
-        <input id="name" type="text" placeholder="Enter your name" required />
+        <input id="name" type="text" placeholder="Enter your full name" required />
 
         </div>
 
