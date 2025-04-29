@@ -283,7 +283,7 @@
 
         <input id="notsure" type="radio" name="recommendation" value="notsure"/>
 
-        <label for="notsure">Not Sure :( </label><br />
+        <label for="notsure">Not Sure</label><br />
 
         </div>
 
