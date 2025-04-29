@@ -1,0 +1,18 @@
+---
+- hosts: dockerhost
+
+  tasks:
+    - name: stop existing container
+      command: docker stop regapp-server
+      ignore_errors: yes
+
+    - name: remove the container
+      command: docker rm regapp-server
+      ignore_errors: yes
+
+    - name: remove the image
+      command: docker rmi ataha99/regapp:latest
+      ignore_errors: yes
+
+    - name: create container
+      command: docker run -d --name regapp-server -p 8082:8080 ataha99/regapp:latest

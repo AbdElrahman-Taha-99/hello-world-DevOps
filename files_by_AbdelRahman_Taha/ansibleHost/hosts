@@ -1,0 +1,10 @@
+localhost
+
+[kubernetes]
+172.31.4.249
+
+[ansible]
+172.31.3.109
+
+[dockerhost]
+172.31.21.124
